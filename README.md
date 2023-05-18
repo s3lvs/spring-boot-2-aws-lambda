@@ -26,10 +26,6 @@ mvn spring-boot:run
 
 ### pode-se usar o curl
 ```shell
-## para rodar
-
-### pode-se usar o sam
-```shell
 sam local start-api --debug
 ```
 
