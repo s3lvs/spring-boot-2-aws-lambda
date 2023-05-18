@@ -22,3 +22,15 @@ sam local start-api --debug
 mvn spring-boot:run
 ```
 
+## para utilizar
+
+### pode-se usar o curl
+```shell
+## para rodar
+
+### pode-se usar o sam
+```shell
+sam local start-api --debug
+```
+
+
